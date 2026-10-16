@@ -1,4 +1,4 @@
 replicas: 2
-
 image:
-  tag: 4.0.1
+  tag: 4.0.3
+  name: ghcr.io/yasserbelm/spring-petclinic
